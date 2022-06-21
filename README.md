@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @hasni1994
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m 
+- Hassan Habib BS Software Engineer and MS Computer Science 
+- Certified Developer Flutter, C# and JAVA
+- 👀 I’m interested in 
+- Flutter
+- Amazon, Ebay, Aliexpress and Wowcommerce
+- 🌱 I’m currently learning 
+- Flutter to next level
+- Amazon Product Hunting
+- Data Science
+- 💞️ I’m looking to collaborate on 
+- Flutter
+- Machine Learning and Artifical Intellignece
+- Python 
+- Ecommerce
 - 📫 How to reach me ...
-
-<!---
-hasni1994/hasni1994 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- hassanhabib1494@gmail.com
+- 00 92 304 5588120
